@@ -1,3 +1,5 @@
+vars
+| --- jenkinsForJava.groovy
 def call(String repoUrl) {
   pipeline {
        agent any
