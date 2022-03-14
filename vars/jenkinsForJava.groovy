@@ -1,5 +1,5 @@
 vars
---- jenkinsForJava.groovy
+jenkinsForJava.groovy
 
 def call(String repoUrl) {
   pipeline {
