@@ -1,5 +1,4 @@
 vars
-| --- welcomeJob.groovy
 | --- jenkinsForJava.groovy
 
 def call(String repoUrl) {
